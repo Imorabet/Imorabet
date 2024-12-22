@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/imorabet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="imorabet" height="30" width="40" /></a>
-<a href="https://twitter.com/ikhlaselmorabet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ikhlaselmorabet" height="30" width="40" /></a>
+<a href="https://x.com/ikhlaselmorabet" target="blank"><img align="center" src="https://logohistory.net/wp-content/uploads/2023/02/Twitter-Log%D0%BE.svg" alt="ikhlaselmorabet" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ikhlas-el-morabet-26890b251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikhlas-el-morabet-26890b251" height="30" width="40" /></a>
 </p>
 
